@@ -1,10 +1,10 @@
 # Green path UI
 
-A user interface for [a green path route optimization application](https://github.com/DigitalGeographyLab/hope-green-path-server/) being developed for [HOPE](https://ilmanlaatu.eu/) – Healthy Outdoor Premises for Everyone.
+A user interface for [a green path route optimization application](https://github.com/DigitalGeographyLab/hope-green-path-server/) being developed for the project [HOPE](https://ilmanlaatu.eu/briefly-in-english/) – Healthy Outdoor Premises for Everyone by the Digital Geography Lab, University of Helsinki.
 
-Its goal is to inform people on clean routes for walking and cycling in Helsinki region. It utilizes Air Quality Index (AQI) from the Enfuser model (by the Finnish Meteorological Institute) and modelled traffic noise data. AQI is based on hourly updated and combined information on NO2, PM2.5, PM10 and O3.
+Its goal is to inform people on clean air and quiet routes for walking and cycling in Helsinki region. It utilizes Air Quality Index (AQI) from the [FMI-ENFUSER](https://en.ilmatieteenlaitos.fi/environmental-information-fusion-service) modelling system (by the Finnish Meteorological Institute) and modelled traffic noise data by the City of Helsinki. AQI is based on real-time hourly composite data on NO2, PM2.5, PM10 and O3.
 
-Currently implemented features include calculation of walkable quiet paths with respect to typical daytime traffic noise levels. The quiet path optimization application and user interface are based on [an MSc thesis](https://github.com/hellej/quiet-paths-msc). 
+Currently implemented features include calculation of walkable unpolluted and quiet paths with respect to real-time air quality and typical daytime traffic noise levels. The green path optimization application and user interface are based on [an MSc thesis](https://github.com/hellej/quiet-paths-msc). 
 
 [Live demo](https://green-paths.web.app/)
 
